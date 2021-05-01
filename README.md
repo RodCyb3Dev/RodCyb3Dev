@@ -10,11 +10,11 @@
 - 🌱 I’m currently learning ... Microsoft AZ-303 Certification: Azure Architect Technologie, and Ethical Hacking Mastery.
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... LinkedIn, Threema, Signal or Telegram.
+- 📫 How to reach me ... [kodeflash.com](https://kodeflash.com), [LinkedIn](www.linkedin.com/in/rodney-hammad-developer1).
 
 <!---
 Rodcode47/Rodcode47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[Postman Expert]: https://media.badgr.com/uploads/badges/assertion-2VxGif5dQVmtbmCO4P1dqw.png "Postman Student Expert"
+[Postman Expert](https://media.badgr.com/uploads/badges/assertion-2VxGif5dQVmtbmCO4P1dqw.png)
