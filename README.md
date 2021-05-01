@@ -16,5 +16,3 @@
 Rodcode47/Rodcode47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Postman Expert](https://api.badgr.io/public/assertions/2VxGif5dQVmtbmCO4P1dqw?identity__email=rodney.hammad%40gmail.com)
