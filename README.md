@@ -17,7 +17,4 @@ Rodcode47/Rodcode47 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[Postman Expert](https://api.badgr.io/public/assertions/2VxGif5dQVmtbmCO4P1dqw?identity__email=rodney.hammad%40gmail.com)
-<a href="https://api.badgr.io/public/assertions/2VxGif5dQVmtbmCO4P1dqw?identity__email=rodney.hammad%40gmail.com
-" target="_blank"><img src="https://api.badgr.io/public/assertions/2VxGif5dQVmtbmCO4P1dqw?identity__email=rodney.hammad%40gmail.com" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Postman Expert](https://api.badgr.io/public/assertions/2VxGif5dQVmtbmCO4P1dqw?identity__email=rodney.hammad%40gmail.com)
