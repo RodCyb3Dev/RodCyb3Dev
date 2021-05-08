@@ -19,7 +19,7 @@ Output: 👋 Hi, I’m Rodney Hammad
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Rodcode47/open-source/)
 
 ```python
 #!/usr/bin/python
@@ -39,8 +39,8 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 ```
 
-- 👀 I’m interested in Cybersecurity, Ethical Hacker, OpenSource, and Bug Bounty Hunter. Other than that, I read a Lot of Blogs/Writeups
-- 🌱 I’m currently learning ... Microsoft AZ-303 Certification: Azure Architect Technologie, and Ethical Hacking Mastery.
+- 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, and `Bug Bounty Hunter`. Other than that, I read a Lot of Blogs/Writeups
+- 🌱 I’m currently learning ... `Microsoft AZ-303 Certification: Azure Architect Technologie`, and `Ethical Hacking Mastery`.
 - 💬 Ask me about anything [here](https://github.com/Rodcode47/Rodcode47/issues)
 
 ## 🔧 Technologies & Tools
