@@ -23,6 +23,9 @@ Output: 👋 Hi, I’m Rodney Hammad
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Rodcode47/open-source/)
 
+<img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/9017c1af09585995c1ba1b67a015cb0f55278c88e0926ad49865a907f6cd9d1c.0_y8qzwg.png" width="230">
+
+
 ```python
 #!/usr/bin/python
 
@@ -42,8 +45,12 @@ me = SoftwareEngineer()
 #! 3. Cybersecurity Guy (Ethical Hacker)
 ```
 
+<img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/2d128ef5d6fc3ab4f2a8304ef020cf1e25433c738670f4d6b6348da2534ffbcb.0_amqev1.png" width="230">
+
 - 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`. Other than that, I read a Lot of Blogs/Writeups
+
 - 🌱 I’m currently learning ... `Microsoft AZ-303 Certification: Azure Architect Technologie`, and `Ethical Hacking Mastery`.
+
 - 💬 Ask me about anything [here](https://github.com/Rodcode47/Rodcode47/issues)
 
 ## 🔧 Technologies & Tools
@@ -52,10 +59,9 @@ me = SoftwareEngineer()
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=6aa6f8)
-
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typeScript&logoColor=white&color=6aa6f8)
