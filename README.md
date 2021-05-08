@@ -48,6 +48,8 @@ me = SoftwareEngineer()
 
 - 💬 Ask me about anything [here](https://github.com/Rodcode47/Rodcode47/issues)
 
+- 📝 [Resume](https://kodeflash.com/resumes/)
+
 ## 🔧 Technologies & Tools
 
 **Back-end Languages:**
@@ -85,9 +87,9 @@ me = SoftwareEngineer()
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
-## Quick overview
+## 🚧 Quick overview
 
-* GitHub stats:  
+* 📈 GitHub stats:  
 <a href="https://github.com/Rodcode47/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodcode47" />
