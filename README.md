@@ -47,7 +47,7 @@ me = SoftwareEngineer()
 
 <img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/2d128ef5d6fc3ab4f2a8304ef020cf1e25433c738670f4d6b6348da2534ffbcb.0_amqev1.png" width="230">
 
-- 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`. Other than that, I read a Lot of Blogs/Writeups
+- 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`.<br> Other than that, I read a lot, and to stay up to date with the latest features, I regularly check the communities related to the tech stacks in use.
 
 - 🌱 I’m currently learning ... `Microsoft AZ-303 Certification: Azure Architect Technologie`, and `Ethical Hacking Mastery`.
 
