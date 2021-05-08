@@ -23,9 +23,6 @@ Output: 👋 Hi, I’m Rodney Hammad
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Rodcode47/open-source/)
 
-<img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/9017c1af09585995c1ba1b67a015cb0f55278c88e0926ad49865a907f6cd9d1c.0_y8qzwg.png" width="230">
-
-
 ```python
 #!/usr/bin/python
 
@@ -44,8 +41,6 @@ me = SoftwareEngineer()
 #! 2. Full-Stack S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 #! 3. Cybersecurity Guy (Ethical Hacker)
 ```
-
-<img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/2d128ef5d6fc3ab4f2a8304ef020cf1e25433c738670f4d6b6348da2534ffbcb.0_amqev1.png" width="230">
 
 - 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`.<br> Other than that, I read a lot, and to stay up to date with the latest features, I regularly check the communities related to the tech stacks in use.
 
