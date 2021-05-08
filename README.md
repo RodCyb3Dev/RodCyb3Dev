@@ -98,20 +98,20 @@ me = SoftwareEngineer()
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
 
-<a href="(https://kodeflash.com/portfolios">
-  <img align="left" alt="Rodney | kodeflash" width="" src="https://img.shields.io/badge/-My_Website_Portfolio-green?style=flat-square&amp;logo=web&amp;logoColor=white&amp" />
+<a href="(https://kodeflash.com" target="_blank">
+  <img align="left" alt="Rodney | kodeflash" width="" src="https://img.shields.io/badge/-my_website_portfolio-green?style=flat-square&amp;logo=link&amp;logoColor=white&amp" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/Rodcode47" target="_blank">
   <img align="left" alt="Rodney | CodeSandbox" width="" src="https://img.shields.io/badge/-rodney-gray?style=flat-square&amp;logo=codesandbox&amp;logoColor=white&amp" />
 </a>
-<a href="https://linkedin.com/in/rodney-hammad-developer1">
+<a href="https://linkedin.com/in/rodney-hammad-developer1" target="_blank">
   <img align="left" alt="Rodney Hammad | Linkedin" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp" />
 </a>
-<a href="https://www.twitter.com/@rodneyh">
+<a href="https://www.twitter.com/@rodneyh" target="_blank">
   <img align="left" alt="Rodney Hammad | Twitter" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Twitter&amp;logoColor=white&amp" />
 </a>
-<a href="https://discord.gg/zrJTe8gj">
-  <img align="left" alt="Anurag's Discord" width="" src="https://img.shields.io/badge/-rodney-purple?style=round&amp;logo=Discord&amp;logoColor=white&amp" />
+<a href="https://discord.gg/zrJTe8gj" target="_blank">
+  <img align="left" alt="Rodney's Discord" width="" src="https://img.shields.io/badge/-rodney-purple?style=round&amp;logo=Discord&amp;logoColor=white&amp" />
 </a>
 
 <br>
