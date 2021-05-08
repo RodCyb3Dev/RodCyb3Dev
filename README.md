@@ -31,15 +31,16 @@ class SoftwareEngineer:
     "Full-Stack S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛",
     "Cybersecurity Guy (Ethical Hacker)"
   }
-  self.Free_Time_Activities = {
-    "Part Time Bug Bounty Hunter",
-     "Doing Competitive Programming"
-  }
   
 me = SoftwareEngineer()
+
+#! Output:
+#! 1. A self Learned Programmer
+#! 2. Full-Stack S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+#! 3. Cybersecurity Guy (Ethical Hacker)
 ```
 
-- 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, and `Bug Bounty Hunter`. Other than that, I read a Lot of Blogs/Writeups
+- 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`. Other than that, I read a Lot of Blogs/Writeups
 - 🌱 I’m currently learning ... `Microsoft AZ-303 Certification: Azure Architect Technologie`, and `Ethical Hacking Mastery`.
 - 💬 Ask me about anything [here](https://github.com/Rodcode47/Rodcode47/issues)
 
