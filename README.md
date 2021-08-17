@@ -112,7 +112,7 @@ me = SoftwareEngineer()
 <a href="https://www.twitter.com/@rodneyh" target="_blank">
   <img align="left" alt="Rodney Hammad | Twitter" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Twitter&amp;logoColor=white&amp" />
 </a>
-<a href="https://discord.gg/pMPyCumk" target="_blank">
+<a href="https://discord.gg/sXxyTDmKH5" target="_blank">
   <img align="left" alt="Rodney's Discord" width="" src="https://img.shields.io/badge/-rodney-purple?style=round&amp;logo=Discord&amp;logoColor=white&amp" />
 </a>
 
