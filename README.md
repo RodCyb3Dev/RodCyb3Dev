@@ -100,7 +100,7 @@ me = SoftwareEngineer()
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
 
-<a href="(https://kodeflash.com/" target="_blank">
+<a href="https://kodeflash.com/" target="_blank">
   <img align="left" alt="Rodney | kodeflash" width="" src="https://img.shields.io/badge/-my_website_portfolio-green?style=flat-square&amp;logo=link&amp;logoColor=white&amp" />
 </a>
 <a href="https://codesandbox.io/u/Rodcode47" target="_blank">
