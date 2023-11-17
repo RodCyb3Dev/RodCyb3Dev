@@ -79,7 +79,6 @@ me.print_who_am_i()
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typeScript&logoColor=white&color=6aa6f8)
@@ -88,8 +87,12 @@ me.print_who_am_i()
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
 
 **🧪 Testing:**
 
@@ -98,6 +101,32 @@ me.print_who_am_i()
 ![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-RSpec-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Robo-informational?style=flat&logo=robo&logoColor=white&color=6aa6f8)
+
+
+**🌐 Web Accessibility:**
+
+![](https://img.shields.io/badge/Guidelines-WCAG-informational?style=flat&logoColor=white&color=6aa6f8)
+
+**🛠️ Accessibility Tools:**
+
+![](https://img.shields.io/badge/Tool-Axe-informational?style=flat&logo=axe&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Lighthouse-informational?style=flat&logo=lighthouse&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-WAVE-informational?style=flat&logo=wave&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-JAWS-informational?style=flat&logo=jaws&logoColor=white&color=6aa6f8)
+
+**⚡ Performance Improvement:**
+
+![](https://img.shields.io/badge/Tool-Google_Search_Console-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Google_PageSpeed-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-WebPageTest-informational?style=flat&logo=webpagetest&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Performance_Monitor-informational?style=flat&logo=performance&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Lighthouse_CI-informational?style=flat&logo=lighthouse&logoColor=white&color=6aa6f8)
+
+**📊 Web Core Vitals:**
+
+![](https://img.shields.io/badge/Metrics-Core_Vitals-informational?style=flat&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Google_Search_Console-informational?style=flat&logo=google&logoColor=white&color=6aa6f8)
+
 
 **🛢️ Databases:**
 
@@ -109,6 +138,7 @@ me.print_who_am_i()
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=6aa6f8)
 
 **💻 Systems:**
 
