@@ -73,7 +73,7 @@ me.print_who_am_i()
 
 ## 🔧 Technologies & Tools
 
-**Back-end Languages:**
+**🚀 Back-end Languages:**
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
@@ -84,25 +84,33 @@ me.print_who_am_i()
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typeScript&logoColor=white&color=6aa6f8)
 
-**Front-end Languages:**
+**🎨 Front-end Languages:**
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=6aa6f8)
 
-**Databases:**
+**🧪 Testing:**
+
+![](https://img.shields.io/badge/Framework-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-RSpec-informational?style=flat&logo=ruby&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Robo-informational?style=flat&logo=robo&logoColor=white&color=6aa6f8)
+
+**🛢️ Databases:**
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 
-**DevOps:**
+**🛠️ DevOps:**
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
-**Systems:**
+**💻 Systems:**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6aa6f8)
@@ -113,10 +121,10 @@ me.print_who_am_i()
 * 📈 GitHub stats:  
 <a href="https://github.com/RodCyb3Dev/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodcode47" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodCyb3Dev" />
 </a>
 <a href="https://github.com/RodCyb3Dev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodcode47&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodCyb3Dev&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
