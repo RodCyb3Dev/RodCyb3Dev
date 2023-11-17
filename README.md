@@ -21,37 +21,55 @@ class Person {
 
 const member = new Person("Rodney", "Hammad");
 console.log(`👋 Hi, I’m ${member.getFullName()}`);
+
+// Output: 👋 Hi, I’m Rodney Hammad
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Rodcode47/open-source/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/RodCyb3Dev/open-source/)
 
 ```python
 #!/usr/bin/python
 
+class DeveloperInfo:
+    def __init__(self, title, description=""):
+        self.title = title
+        self.description = description
+
 class SoftwareEngineer:
-  def __init__(self):
-  self.Who_Am_I = {
-    "A self Learned Programmer",
-    "Full-Stack S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛",
-    "Cybersecurity Guy (Ethical Hacker)"
-  }
-  
+    def __init__(self):
+        self.who_am_i = [
+            DeveloperInfo("A self Learned Programmer", "Passionate about learning and coding on my own."),
+            DeveloperInfo("Full-Stack Software Developer", "Experienced in developing end-to-end web applications."),
+            DeveloperInfo("Cybersecurity Guy (Ethical Hacker)", "Focused on cybersecurity practices and ethical hacking.")
+        ]
+
+    def print_who_am_i(self):
+        for index, info in enumerate(self.who_am_i, start=1):
+            print(f"{index}. {info.title}")
+            print(f"   {info.description}")
+
 me = SoftwareEngineer()
+me.print_who_am_i()
 
 #! Output:
 #! 1. A self Learned Programmer
-#! 2. Full-Stack S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+#!    Passionate about learning and coding on my own.
+#! 2. Full-Stack Software Developer
+#!    Experienced in developing end-to-end web applications.
 #! 3. Cybersecurity Guy (Ethical Hacker)
+#!    Focused on cybersecurity practices and ethical hacking.
+
+#! ...Program finished with exit code 0
 ```
 
 - 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`.<br> Other than that, I read a lot, and to stay up to date with the latest features, I regularly check the communities related to the tech stacks in use.
 
 - 🌱 I’m currently learning ... `Microsoft AZ-303 Certification: Azure Architect Technologie`, and `Ethical Hacking Mastery`.
 
-- 💬 Ask me about anything [here](https://github.com/Rodcode47/Rodcode47/issues)
+- 💬 Ask me about anything [here](https://github.com/RodCyb3Dev/RodCyb3Dev/issues)
 
-- 📝 [Resume](https://kodeflash.com/resumes/)
+- 📝 [Resume](https://kodeflash.dev/resumes/)
 
 ## 🔧 Technologies & Tools
 
@@ -93,23 +111,23 @@ me = SoftwareEngineer()
 ## 🚧 Quick overview
 
 * 📈 GitHub stats:  
-<a href="https://github.com/Rodcode47/github-readme-stats">
+<a href="https://github.com/RodCyb3Dev/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodcode47" />
 </a>
-<a href="https://github.com/Rodcode47/github-readme-stats">
+<a href="https://github.com/RodCyb3Dev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodcode47&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
 
-<a href="https://kodeflash.com/" target="_blank">
+<a href="https://kodeflash.dev/" target="_blank">
   <img align="left" alt="Rodney | kodeflash" width="" src="https://img.shields.io/badge/-my_website_portfolio-green?style=flat-square&amp;logo=link&amp;logoColor=white&amp" />
 </a>
-<a href="https://codesandbox.io/u/Rodcode47" target="_blank">
+<a href="https://codesandbox.io/u/RodCyb3Dev" target="_blank">
   <img align="left" alt="Rodney | CodeSandbox" width="" src="https://img.shields.io/badge/-rodney-gray?style=flat-square&amp;logo=codesandbox&amp;logoColor=white&amp" />
 </a>
-<a href="https://linkedin.com/in/rodney-hammad-developer1" target="_blank">
+<a href="https://linkedin.com/in/rodneyhammad" target="_blank">
   <img align="left" alt="Rodney Hammad | Linkedin" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp" />
 </a>
 <a href="https://www.twitter.com/@rodneyh" target="_blank">
