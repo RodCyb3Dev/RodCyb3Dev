@@ -3,21 +3,24 @@
 <img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/b7c1da48eaf597259e08ed5ce54967c3017e84775093a9811462f90166583f7b.0_m2awf6.png" width="230">
 
 ```javascript
-//usr/bin/javascript
+//usr/bin/env ts-node
 
-function Person(firstName, lastName) {
-  this.firstName = firstName;
-  this.lastName = lastName;
+class Person {
+  private firstName: string;
+  private lastName: string;
+
+  constructor(firstName: string, lastName: string) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+
+  getFullName(): string {
+    return `${this.firstName} ${this.lastName}`;
+  }
 }
 
 const member = new Person("Rodney", "Hammad");
-Person.prototype.getFullName = function() {
-  return `${this.firstName} ${this.lastName}`;
-};
-
 console.log(`👋 Hi, I’m ${member.getFullName()}`);
-
-Output: 👋 Hi, I’m Rodney Hammad
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
