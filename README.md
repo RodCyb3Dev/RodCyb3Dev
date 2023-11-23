@@ -1,6 +1,6 @@
-Welcome to my GitHub repository! Feel free to explore the code and contribute.
+<h3>Welcome to my GitHub repository! Feel free to explore the code and contribute.</h3>
 
-<h2> Some info about me... <img src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/fbfff0c2999c5dcb7865dcfba17223c5a686cdf49b51dbd89aa322ceba53d92e.0_t210yq.png" width="50"></h2>
+<h4> Some info about me... <img src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/fbfff0c2999c5dcb7865dcfba17223c5a686cdf49b51dbd89aa322ceba53d92e.0_t210yq.png" width="50"></h4>
 
 <img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/b7c1da48eaf597259e08ed5ce54967c3017e84775093a9811462f90166583f7b.0_m2awf6.png" width="230">
 
