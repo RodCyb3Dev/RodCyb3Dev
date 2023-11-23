@@ -1,9 +1,3 @@
-# RodCyb3Dev
-
-[![GitHub](https://img.shields.io/badge/GitHub-RodCyb3Dev-blueviolet)](https://github.com/RodCyb3Dev)
-
-Welcome to my GitHub repository! Feel free to explore the code and contribute.
-
 <h2> Some info about me... <img src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/fbfff0c2999c5dcb7865dcfba17223c5a686cdf49b51dbd89aa322ceba53d92e.0_t210yq.png" width="50"></h2>
 
 <img align='right' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/b7c1da48eaf597259e08ed5ce54967c3017e84775093a9811462f90166583f7b.0_m2awf6.png" width="230">
@@ -30,9 +24,11 @@ console.log(`👋 Hi, I’m ${member.getFullName()}`);
 
 // Output: 👋 Hi, I’m Rodney Hammad
 ```
-
+[![GitHub](https://img.shields.io/badge/GitHub-RodCyb3Dev-blueviolet)](https://github.com/RodCyb3Dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/RodCyb3Dev/open-source/)
+
+Welcome to my GitHub repository! Feel free to explore the code and contribute.
 
 ```python
 #!/usr/bin/python
