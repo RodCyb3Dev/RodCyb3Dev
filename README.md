@@ -188,11 +188,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img align='left' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/ba5f264bd0ca0c22a4e6cf5496939d1e5fb10e10e5a106b524e7d455df96fc31.0_a7gvq2.png" width="230">
-
-<style>
-@media (max-width: 600px) {
-  .bitmoji_image {
-    display: none;
-  }
-}
-</style>
