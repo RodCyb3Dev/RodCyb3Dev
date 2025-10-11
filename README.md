@@ -153,6 +153,10 @@ me.print_who_am_i()
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=6aa6f8)
 
 **💻 Systems:**
 
@@ -174,19 +178,16 @@ me.print_who_am_i()
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
 
 <a href="https://kodeflash.dev/" target="_blank">
-  <img align="left" alt="Rodney | kodeflash" width="" src="https://img.shields.io/badge/-my_website_portfolio-green?style=flat-square&amp;logo=link&amp;logoColor=white&amp" />
+  <img align="left" alt="Rodney | kodeflash" src="https://img.shields.io/badge/Own_Website-Portfolio-green?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://codesandbox.io/u/RodCyb3Dev" target="_blank">
-  <img align="left" alt="Rodney | CodeSandbox" width="" src="https://img.shields.io/badge/-rodney-gray?style=flat-square&amp;logo=codesandbox&amp;logoColor=white&amp" />
+  <img align="left" alt="Rodney | CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-Rodney-gray?style=flat-square&logo=codesandbox&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/rodneyhammad" target="_blank">
-  <img align="left" alt="Rodney Hammad | Linkedin" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp" />
-</a>
-<a href="https://www.twitter.com/@rodneyh" target="_blank">
-  <img align="left" alt="Rodney Hammad | Twitter" width="" src="https://img.shields.io/badge/-rodney-blue?style=flat-square&amp;logo=Twitter&amp;logoColor=white&amp" />
+  <img align="left" alt="Rodney | Linkedin" src="https://img.shields.io/badge/My_Linkedin-Rodney-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.gg/sXxyTDmKH5" target="_blank">
-  <img align="left" alt="Rodney's Discord" width="" src="https://img.shields.io/badge/-rodney-purple?style=round&amp;logo=Discord&amp;logoColor=white&amp" />
+  <img align="left" alt="Rodney's Discord" src="https://img.shields.io/badge/At_Discord-Rodney-purple?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
 <br>
