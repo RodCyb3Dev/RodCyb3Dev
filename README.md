@@ -71,16 +71,20 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.print_who_am_i()
+```
 
-#! Output:
-#! 1. A self Learned Programmer
-#!    Passionate about learning and coding on my own.
-#! 2. Full-Stack Software Developer
-#!    Experienced in developing end-to-end web applications.
-#! 3. Cybersecurity Guy (Ethical Hacker)
-#!    Focused on cybersecurity practices and ethical hacking.
+```bash
+#Output:
+1. A self Learned Programmer
+   Passionate about learning and coding on my own.
 
-#! ...Program finished with exit code 0
+2. Full-Stack Software Developer
+  Experienced in developing end-to-end web applications.
+
+3. Cybersecurity Guy (Ethical Hacker)
+  Focused on cybersecurity practices and ethical hacking.
+
+...Program finished with exit code 0
 ```
 
 - 👀 I’m interested in ... `Cybersecurity`, `Ethical Hacker`, `OpenSource`, `Part Time Bug Bounty Hunter`, and `Doing Competitive Programming`.<br> Other than that, I read a lot, and to stay up to date with the latest features, I regularly check the communities related to the tech stacks in use.
