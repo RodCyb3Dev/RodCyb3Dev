@@ -1,9 +1,10 @@
 <h3>Welcome to my GitHub repository! Feel free to explore the code and contribute.</h3>
 
-<h4> Some info about me... <img src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/fbfff0c2999c5dcb7865dcfba17223c5a686cdf49b51dbd89aa322ceba53d92e.0_t210yq.png" width="50"></h4>
+<h4> Some info about me... <img src="https://res.cloudinary.com/diva6ypar/image/upload/v1760189127/611b08fe3970e2da31689aacea84d78c642ddd151ab1761b668a25a3d858f311.0_zekry4.png" width="50" style="max-width: 100%; height: auto; vertical-align: middle;"></h4>
 
-<!-- Your image with the custom class -->
-<img align='right' class="bitmoji_image" src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378116/Bitmoji/b7c1da48eaf597259e08ed5ce54967c3017e84775093a9811462f90166583f7b.0_m2awf6.png" width="230" style="display: flex; flex-direction: column-reverse;">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ```javascript
 //usr/bin/env ts-node
@@ -23,10 +24,20 @@ class Person {
 }
 
 const member = new Person("Rodney", "Hammad");
-console.log(`👋 Hi, I’m ${member.getFullName()}`);
+console.log(`👋 Hi, I'm ${member.getFullName()}`);
 
-// Output: 👋 Hi, I’m Rodney Hammad
+// Output: 👋 Hi, I'm Rodney Hammad
 ```
+
+</td>
+<td width="35%" valign="top">
+
+<img src="https://res.cloudinary.com/diva6ypar/image/upload/v1760189126/e510e183fb968375f4f69da3ddafedc93c2a0376013bb997d3b4c75507e511fd.0_uaplm3.png" width="100%" style="max-width: 280px; height: auto; display: block; margin: 0 auto;">
+
+</td>
+</tr>
+</table>
+
 [![GitHub](https://img.shields.io/badge/GitHub-RodCyb3Dev-blueviolet)](https://github.com/RodCyb3Dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rodcode47.Rodcode47)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/RodCyb3Dev/open-source/)
@@ -187,4 +198,4 @@ Rodcode47/Rodcode47 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align='left' src="https://res.cloudinary.com/dmezweboo/image/upload/v1620378117/Bitmoji/ba5f264bd0ca0c22a4e6cf5496939d1e5fb10e10e5a106b524e7d455df96fc31.0_a7gvq2.png" width="230">
+<img align='left' src="https://res.cloudinary.com/diva6ypar/image/upload/v1760189126/ba5f264bd0ca0c22a4e6cf5496939d1e5fb10e10e5a106b524e7d455df96fc31.0_e713qh.png" width="230" style="max-width: 100%; height: auto;">
