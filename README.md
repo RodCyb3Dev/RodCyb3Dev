@@ -1,5 +1,11 @@
 <h3>Welcome to my GitHub repository! Feel free to explore the code and contribute.</h3>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AA6F8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%95%B5%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
 <h4> Some info about me... <img src="https://res.cloudinary.com/diva6ypar/image/upload/v1760189127/611b08fe3970e2da31689aacea84d78c642ddd151ab1761b668a25a3d858f311.0_zekry4.png" width="50" style="max-width: 100%; height: auto; vertical-align: middle;"></h4>
 
 <table>
@@ -85,7 +91,21 @@ me.print_who_am_i()
 
 - 📝 [Resume](https://kodeflash.dev/resumes/)
 
-## 🔧 Technologies & Tools
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=RodCyb3Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<details open>
+<summary><h2>🔧 Technologies & Tools</h2></summary>
+<br>
 
 **🚀 Back-end Languages:**
 
@@ -164,31 +184,61 @@ me.print_who_am_i()
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
-## 🚧 Quick overview
+</details>
 
-* 📈 GitHub stats:  
-<a href="https://github.com/RodCyb3Dev/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodCyb3Dev" />
-</a>
-<a href="https://github.com/RodCyb3Dev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodCyb3Dev&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=RodCyb3Dev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Streak Stats
+<img src="https://streak-stats.demolab.com/?user=RodCyb3Dev&theme=react&hide_border=true" alt="Streak Stats" />
+
+</td>
+</tr>
+</table>
+
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodCyb3Dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RodCyb3Dev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, you can reach me!</b> :)</em>
 
+<div align="center">
+
 <a href="https://kodeflash.dev/" target="_blank">
-  <img align="left" alt="Rodney | kodeflash" src="https://img.shields.io/badge/Own_Website-Portfolio-green?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img alt="Rodney | kodeflash" src="https://img.shields.io/badge/Own_Website-Portfolio-green?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://codesandbox.io/u/RodCyb3Dev" target="_blank">
-  <img align="left" alt="Rodney | CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-Rodney-gray?style=flat-square&logo=codesandbox&logoColor=white" />
+  <img alt="Rodney | CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-Rodney-gray?style=flat-square&logo=codesandbox&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/rodneyhammad" target="_blank">
-  <img align="left" alt="Rodney | Linkedin" src="https://img.shields.io/badge/My_Linkedin-Rodney-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  <img alt="Rodney | Linkedin" src="https://img.shields.io/badge/My_Linkedin-Rodney-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://discord.gg/sXxyTDmKH5" target="_blank">
-  <img align="left" alt="Rodney's Discord" src="https://img.shields.io/badge/At_Discord-Rodney-purple?style=flat-square&logo=discord&logoColor=white" />
+  <img alt="Rodney's Discord" src="https://img.shields.io/badge/At_Discord-Rodney-purple?style=flat-square&logo=discord&logoColor=white" />
 </a>
+
+</div>
 
 <br>
 
